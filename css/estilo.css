@@ -1,0 +1,245 @@
+.listaMenu{
+	list-style-type: none;
+	font-family: 'Dosis', sans-serif;
+	color:#f1f2f2;
+	width:1200px;
+	margin-left: 250px;
+}
+.itemMenu{
+	float:left;
+	text-align:center;
+	padding:10px;
+	margin:2px;
+	background-color:#231f20;
+	border-style: dotted dotted;
+}
+.itemMenu:hover{
+	background-color:#4dcdff;
+	color:#f1f2f2;
+}
+.itemMenu a:link{
+	text-decoration:none;
+	color:#f1f2f2;
+	padding: 10px;
+}
+.itemMenu a:hover{
+	color:#f1f2f2;
+	text-decoration:none;
+}
+.itemMenu a:visited{
+	text-decoration:none;
+	color: #f1f2f2;
+}
+
+.listaMenuV{
+	list-style-type: none;
+	font-family: 'Dosis', sans-serif;
+	color:#f1f2f2;
+	width:200px;
+	position: relative;
+	top: -25px;
+	left: -15px;
+}
+.itemMenuV{
+	text-align:center;
+	padding:5px;
+	margin:40px;
+	color: #f1f2f2;
+}
+.itemMenuV:hover{
+	background-color:#4dcdff;
+	color:#f1f2f2;
+}
+.itemMenuV a:link{
+	text-decoration:none;
+	color:#f1f2f2;
+	padding: 10px;
+}
+.itemMenuV a:hover{
+	color:#f1f2f2;
+	text-decoration:none;
+}
+.itemMenuV a:visited{
+	text-decoration:none;
+	color: #f1f2f2;
+}
+
+.tudo{
+	margin:0 auto;
+	width:1000px;
+}
+.topo{
+	width:1000px;
+	height:100px;
+	background-color:#9AFFF7;
+}
+.menuH{
+	width:1000px;
+	float: left;
+	background-color:#6d6e71;
+}
+.menuV{
+	width:250px;
+	height:350px;
+	background-color:#231f20;
+	float:left;
+}
+.conteudo{
+	width:750px;
+	height:350px;
+	background-color:#414042;
+	float:left;
+}
+.rodape{
+	width:1000px;
+	height:100px;
+	clear:both;
+	background-color:#6d6e71;
+}
+.textoSetimo{
+	list-style-type: none;
+	float:left;
+	padding:15px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+	color: #f1f2f2;
+}
+.textoSetimo h2{
+	font-family: 'Dosis', sans-serif;
+	font-size:26px;
+	color: #f1f2f2;
+}
+.textoSetimo2{
+	list-style-type: none;
+	float:right;
+	padding:80px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+	color: #f1f2f2;
+}
+.Ficha{
+	list-style-type: none;
+	position: relative;
+	top: -200px;
+	padding:10px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+	color: #f1f2f2;
+}
+
+.informacoesMorte{
+	position: relative;
+	top: -890px;
+	right: 85px;
+	margin:300px;
+	padding:0px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;	
+	color: #f1f2f2;
+}
+.informacoesJof h5{
+	position: relative;
+	top: 10px;
+	color: #f1f2f2;
+}
+.informacoesJof{
+	position: relative;
+	top: -1420px;
+	left: 290px;
+	margin:300px;
+	padding:0px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;	
+	color: #f1f2f2;
+}
+
+.figuraSétimoSelo{
+	width:500px;
+	/*padding:15px;*/
+	/*float:left;
+	margin-top:80px;*/
+}
+.figuraSétimoSelo img{
+	width:450px;
+	height:280px;
+	position: relative;
+	top: 30px;
+	left: 300px;
+}
+
+.imagemMorte img{
+	width:200px;
+	height:300px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.imagemJof img{
+	width:200px;
+	height:300px;
+	position: relative;
+	top: -290px;
+	left: 380px;
+}
+.imagemCannes img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: 50px;
+	left: 20px;
+}
+.imagemFotograma img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -50px;
+	left: 200px;
+}
+.imagemBafta img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -150px;
+	left: 380px;
+}
+.imagemGrammy img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -265px;
+	left: 560px;
+}
+.imagemBafta img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: 250px;
+	left: -450px;
+}
+.layoutPrincipal img{
+	width:1000px;
+	height:100px;
+}
+
+
+.conteudoPrincipal1 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -16px;
+	left: -40px;
+}
+.conteudoPrincipal2 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -386px;
+	left: 210px;
+}
+.conteudoPrincipal3 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -756px;
+	left: 460px;
+}
